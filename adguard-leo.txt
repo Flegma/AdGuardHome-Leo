@@ -1,0 +1,10 @@
+||ad.doubleclick.net^
+||pagead2.googlesyndication.com^
+||stats.g.doubleclick.net^
+||c.amazon-adsystem.com^
+||static.criteo.net^
+||micro.rubiconproject.com^
+||u.openx.net^
+||delivery.adrecover.com^
+||freshatl.azurewebsites.net^
+||b4d7f9ad-9746-4daa-b552-8205ef41f49d.edge.permutive.app^
