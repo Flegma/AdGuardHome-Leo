@@ -8,3 +8,13 @@
 ||delivery.adrecover.com^
 ||freshatl.azurewebsites.net^
 ||b4d7f9ad-9746-4daa-b552-8205ef41f49d.edge.permutive.app^
+! index.hr, 2026-11-06: ad recovery (Ad-Shield) and rotating ad domains
+||html-load.com^
+||content-loader.com^
+||cricketleaf.com^
+||deerbreeze.com^
+! index.hr, 2026-11-06: ad creatives, SSPs, sync and tracking
+||2mdn.net^
+||ssp.wp.pl^
+||shb-sync.com^
+||dotmetrics.rocks^
